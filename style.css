@@ -190,7 +190,7 @@ li {
 .d-inline-block {
     display: inline-block;
 }
-.ser-icon span {
+.service-icon {
     width: 60px;
     height: 60px;
     border-radius: 50%;
@@ -198,6 +198,7 @@ li {
     font-size: 21px;
     margin-bottom: 20px;
 }
+
 .theme-bg {
     background: #6c63ff;
 }
@@ -235,6 +236,47 @@ h6 {
 }
 .mb-135 {
     margin-bottom: 135px;
+}
+.mt-3 {
+    margin-top: 1rem;
+}
+.mb-4 {
+    margin-bottom: 1.5rem;
+}
+.py-5 {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.full-section {
+    background-color: rgb(243, 249, 251);
+}
+.my-3 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.color {
+    vertical-align: middle;
+    width: 32;
+    height: 32;
+    fill: rgb(108, 99, 255);
+}
+.text-title {
+    font-weight: 700;
+}
+.text-subtitle {
+    font-weight: 700;
+}
+.text-p {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    --bs-text-opacity: 1;
+    color: rgba(var(--bs-secondary-rgb),var(--bs-text-opacity));
+}
+.col-lg-11 {
+    flex: 0 0 auto;
+    width: 91.66666667%;
 }
 
 
