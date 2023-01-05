@@ -292,7 +292,7 @@ h6 {
     padding-bottom: 260px;
 }
 .justify-content-center {
-    justify-content: center !important;
+    justify-content: center;
 }
 .mb {
     margin-bottom: 70px;
@@ -309,4 +309,50 @@ h6 {
     font-size: 48px;
     line-height: 1.25;
 }
-
+.single-product {
+    box-shadow: 0px 3px 24px 3px rgb(7 7 7 / 4%);
+    border-bottom: 3px solid #6c63ff;
+    transition: .3s;
+    -webkit-transition: .3s;
+}
+.bg-white{
+    background-color: #fff;
+}
+.pl-45 {
+    padding-left: 45px;
+}
+.pr-45 {
+    padding-right: 45px;
+}
+.pt-65{
+    padding-top: 65px;
+}
+.pb-50{
+padding-bottom: 50px;
+}
+.mb-50{
+    margin-bottom: 50px;
+}
+h5{
+    font-size: 24px;
+    color: #222222;
+    line-height: 1.2;
+    margin-top: 0;
+}
+.mt-50{
+    margin-top: 50px;
+}
+.mb-45{
+    margin-bottom: 45px;
+}
+.single-product p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #666666;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.text-capitalize {
+    text-transform: capitalize !important;
+}
