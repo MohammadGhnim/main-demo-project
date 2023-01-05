@@ -198,6 +198,13 @@ li {
     font-size: 21px;
     margin-bottom: 20px;
 }
+.service-card:hover span {
+    transform: translateX(50px);
+    transition: .3s;
+    -webkit-transition: .3s;
+    -moz-transition: .3s;
+    -ms-transition: .3s;
+    -o-transition: .3s;}
 
 .theme-bg {
     background: #6c63ff;
@@ -278,5 +285,28 @@ h6 {
     flex: 0 0 auto;
     width: 91.66666667%;
 }
-
+.pt-110{
+    padding-top: 110px;
+}
+.pb-260{
+    padding-bottom: 260px;
+}
+.justify-content-center {
+    justify-content: center !important;
+}
+.mb {
+    margin-bottom: 70px;
+}
+.mb-20 {
+    margin-bottom: 20px;
+}
+.sub-heading {
+    line-height: 1.25;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.title1 h3 {
+    font-size: 48px;
+    line-height: 1.25;
+}
 
