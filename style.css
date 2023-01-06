@@ -391,3 +391,39 @@ h5{
 .service-content h3 {
     margin-top: 0px;
 }
+.mb-20 {
+    margin-bottom: 20px;
+}
+.mr-25 {
+    margin-right: 25px;
+}
+.mt-1 {
+    margin-top: 0.25rem !important;
+}
+.ser-icon span {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    line-height: 60px;
+    font-size: 21px;
+    margin-bottom: 20px;
+}
+.pb-10 {
+    padding-bottom: 10px;
+}
+.d-sm-flex {
+    display: -webkit-box !important;
+    display: flex !important;
+}
+.mt-40 {
+    margin-top: 40px;
+}
+.service-img {
+    margin-right: -138px;
+}
+.mb-55 {
+    margin-bottom: 55px;
+}
+.pt-60 {
+    padding-top: 60px;
+}
