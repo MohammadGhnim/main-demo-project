@@ -37,6 +37,12 @@ h1 {
 p {
     font-size: 24px;
     line-height: 1.4;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 1rem
+rem
+;
+    color: #666666;
 }
 
 .btn {
@@ -359,4 +365,29 @@ h5{
 .single-product:hover {
     box-shadow: 0px 3px 30px 3px rgb(7 7 7 / 7%);
     margin-top: -10px;
+}
+.pb-90 {
+    padding-bottom: 90px;
+}
+.container {
+    max-width: 1200px;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.mt-70 {
+    margin-top: 70px;
+}
+.mb-25 {
+    margin-bottom: 25px;
+}
+.theme-color {
+    color: #6c63ff;
+}
+.mb-40 {
+    margin-bottom: 40px;
+}
+.service-content h3 {
+    margin-top: 0px;
 }
