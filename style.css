@@ -8,6 +8,28 @@
     position: relative;
     margin-left: 30px;
 }
+.pl-30 {
+    padding-left: 30px;
+}
+.pl-15 {
+    padding-left: 15px;
+}
+.facebook-color {
+    color: #3b5998;
+}
+.twitter-color {
+    color: #1da1f2;
+}
+.google-color {
+    color: #dd4b39;
+}
+.linkedin-color{
+    color: #0077b5;
+}
+.social-link {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
 .main-menu {
     background-color: white;
 }
@@ -17,7 +39,6 @@
 .home-color{
     color: #6c63ff;
 }
-
 span {
     font-size: 24px;
     line-height: 2;
@@ -25,26 +46,20 @@ span {
     color: #6c63ff;
     display: block !important;
 }
-
-
 h1 {
     padding-bottom: 20px;
     font-size: 55px;
     font-weight: 700;
     display: block !important;
 }
-
 p {
     font-size: 24px;
     line-height: 1.4;
     font-weight: 400;
     margin-top: 0;
-    margin-bottom: 1rem
-rem
-;
+    margin-bottom: 1rem;
     color: #666666;
 }
-
 .btn {
     padding: 12px 58px;
     font-size: 18px;
@@ -60,45 +75,34 @@ rem
     margin-top: 25px;
     cursor: pointer;
 }
-
-
 .info:hover {
     color: #6c63ff;
 }
-
-
 element.style {
     visibility: visible;
     animation-duration: 1.5s;
     animation-delay: 0.8s;
     animation-name: fadeInUp;
 }
-
-
 img {
     max-width: 90%;
     vertical-align: middle;
     border-style: none;
 }
-
 .mt-95 {
     margin-top: 95px;
 }
-
 .over-hidden {
     overflow: hidden;
 }
-
 div {
     display: block;
 }
-
 .title {
     font-size: 24px;
     line-height: 2;
     margin-bottom: 0;
 }
-
 .title h3 {
     font-family: inherit;
     font-size: 48px;
@@ -113,15 +117,12 @@ div {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
-
 .f-700 {
     font-weight: 700;
 }
-
 .mt-45 {
     margin-top: 45px;
 }
-
 .justify-content-between {
     -webkit-box-pack: justify;
     justify-content: space-between;
@@ -144,7 +145,6 @@ ul {
 }
 .d-md-flex {
     display: flex;
-    
 }
 .mr-25 {
     margin-right: 25px;
@@ -192,7 +192,6 @@ li {
 .text-center {
     text-align: center;
 }
-
 .d-inline-block {
     display: inline-block;
 }
